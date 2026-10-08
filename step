@@ -1,0 +1,9 @@
+dir -Force
+
+.git Git ka internal database hai. Isme Git aapke project ki:
+
+commit history
+branches
+Git configuration
+changes ka tracking information
+
